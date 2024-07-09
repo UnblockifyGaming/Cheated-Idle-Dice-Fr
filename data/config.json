@@ -17,24 +17,24 @@
         "main": [
             {
                 "startD": 2,
-                "cost": 10,
+                "cost": 0,
                 "value": 0,
-                "costIncrease": 1.08,
-                "valueIncrease": 1,
+                "costIncrease": 0.1,
+                "valueIncrease": 100000000000,
                 "initialLevel": 1,
-                "ascentIncrease": 100000
+                "ascentIncrease": 1
             },
             {
                 "startD": 2,
-                "cost": 100,
+                "cost": 1,
                 "value": 0,
-                "costIncrease": 1.08,
+                "costIncrease": 1,
                 "valueIncrease": 2,
                 "ascentIncrease": 100000
             },
             {
                 "startD": 2,
-                "cost": 1000,
+                "cost": 1,
                 "value": 0,
                 "costIncrease": 1.08,
                 "valueIncrease": 4,
@@ -59,7 +59,7 @@
         ],
         "multi":[
             {
-                "cost": 10000000,
+                "cost": 1,
                 "costIncrease": 10000,
                 "ascentIncrease": 10000000000000000000000000000000000000
             },
