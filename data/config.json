@@ -42,11 +42,11 @@
             },
             {
                 "startD": 2,
-                "cost": 10000,
+                "cost": 1,
                 "value": 0,
-                "costIncrease": 1.08,
-                "valueIncrease": 8,
-                "ascentIncrease": 100000
+                "costIncrease": 1,
+                "valueIncrease": 100,
+                "ascentIncrease": 1000000000
             },
             {
                 "startD": 2,
